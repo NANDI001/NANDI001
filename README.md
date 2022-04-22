@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋 My name is HARAPRASAD NANDI
+
+### Hi there 👋  
+NANDI here...
 =================================
 
 Developer & Designer
 --------------------
 
-I started to learn code as a hobby. Now I am working on brushing up my skills on different project...
+I started to learn code as a hobby. Now I am working on brushing up my skills on different projects...
 
 ### Skills
 
