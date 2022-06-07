@@ -22,7 +22,7 @@ NANDI here...
 Developer & Designer
 --------------------
 
-Coding is my hobby. Working on projects...
+<!-- Coding is my hobby. Working on projects... -->
 
 ### Skills
 
