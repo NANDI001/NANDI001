@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋  
-NANDI here...
+<!-- NANDI here... -->
 =================================
 
 Developer & Designer
